@@ -1,0 +1,100 @@
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\bin\Debug\ComputerizedAccountingSystem.exe
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\bin\Debug\ComputerizedAccountingSystem.pdb
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.Form1.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.Properties.Resources.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.exe
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.pdb
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.AddNewStudent.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.ForgotPassword.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.LogIn.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.MDIParent1.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.Payment.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.StudentRegistration.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.SearchStudent.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.UpdateOldStudent.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.UserAccount.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\bin\Debug\ComputerizedAccountingSystem.exe.config
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.Settings.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.PaymentHist.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.StudentRecord.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.PrintReciept.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.StudentList.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.Check.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.Studentotherpayment.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.studentinformation.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.EditStudenInfo.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.xSetUpSection.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.xSetUpSchoolFees.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.xxAddSchoolFees.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.xxSetUpSubFees.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.zzParticulars.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.OtherPayment.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.RePrintReciept.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.rrRePrint.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.ChooseSchoolYear.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.LogInhistory.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.StudentOutstandingBalance.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.ForgotpassordCREATE.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.xxEditSchoolFees.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.xFees.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.CopyFeesLoader.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.Payment_X.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.Payment_z.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.MDIParent2.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.AAAA.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.OUTSTANDINGBAL2.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.STUDENT_RECORD.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.paymenthistselectdate.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.Receipt.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem - Copy\ComputerizedAccountingSystem\bin\Debug\ComputerizedAccountingSystem.exe.config
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem - Copy\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.exe
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem - Copy\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.pdb
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem - Copy\ComputerizedAccountingSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem - Copy\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.AAAA.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem - Copy\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.AddNewStudent.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem - Copy\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.Check.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem - Copy\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.ChooseSchoolYear.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem - Copy\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.CopyFeesLoader.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem - Copy\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.EditStudenInfo.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem - Copy\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.ForgotpassordCREATE.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem - Copy\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.ForgotPassword.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem - Copy\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.Form1.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem - Copy\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.LogIn.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem - Copy\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.LogInhistory.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem - Copy\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.MDIParent1.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem - Copy\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.MDIParent2.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem - Copy\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.OtherPayment.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem - Copy\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.OUTSTANDINGBAL2.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem - Copy\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.Payment.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem - Copy\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.PaymentHist.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem - Copy\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.paymenthistselectdate.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem - Copy\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.Payment_X.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem - Copy\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.Payment_z.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem - Copy\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.PrintReciept.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem - Copy\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.Properties.Resources.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem - Copy\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.Receipt.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem - Copy\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.RePrintReciept.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem - Copy\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.rrRePrint.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem - Copy\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.SearchStudent.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem - Copy\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.Settings.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem - Copy\ComputerizedAccountingSystem\obj\x86\Debug\CAS.StudentInformation.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem - Copy\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.StudentList.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem - Copy\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.Studentotherpayment.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem - Copy\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.StudentOutstandingBalance.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem - Copy\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.StudentRecord.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem - Copy\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.StudentRegistration.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem - Copy\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.STUDENT_RECORD.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem - Copy\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.UpdateOldStudent.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem - Copy\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.UserAccount.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem - Copy\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.xFees.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem - Copy\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.xSetUpSchoolFees.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem - Copy\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.xSetUpSection.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem - Copy\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.xxAddSchoolFees.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem - Copy\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.xxEditSchoolFees.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem - Copy\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.xxSetUpSubFees.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem - Copy\ComputerizedAccountingSystem\obj\x86\Debug\ComputerizedAccountingSystem.zzParticulars.resources
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem - Copy\ComputerizedAccountingSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\demarcaca\Desktop\ComputerizedAccountingSystem - Copy\ComputerizedAccountingSystem\obj\x86\Debug\GenerateResource.write.1.tlog

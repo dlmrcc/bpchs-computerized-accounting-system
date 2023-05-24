@@ -1,0 +1,557 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{19241523-374A-4A92-BE6E-D0A48B4FB12F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ComputerizedAccountingSystem</RootNamespace>
+    <AssemblyName>ComputerizedAccountingSystem</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=6.4.4.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Program Files\MySQL\MySQL Connector Net 6.4.4\Assemblies\v2.0\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AAAA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AAAA.Designer.cs">
+      <DependentUpon>AAAA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddNewStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddNewStudent.Designer.cs">
+      <DependentUpon>AddNewStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChooseSchoolYear.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ChooseSchoolYear.Designer.cs">
+      <DependentUpon>ChooseSchoolYear.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CopyFeesLoader.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CopyFeesLoader.Designer.cs">
+      <DependentUpon>CopyFeesLoader.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditStudenInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditStudenInfo.Designer.cs">
+      <DependentUpon>EditStudenInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ForgotpassordCREATE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ForgotpassordCREATE.Designer.cs">
+      <DependentUpon>ForgotpassordCREATE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ForgotPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ForgotPassword.Designer.cs">
+      <DependentUpon>ForgotPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Check.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Check.Designer.cs">
+      <DependentUpon>Check.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogIn.Designer.cs">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogInhistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogInhistory.Designer.cs">
+      <DependentUpon>LogInhistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MDIParent1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDIParent1.Designer.cs">
+      <DependentUpon>MDIParent1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MDIParent2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDIParent2.Designer.cs">
+      <DependentUpon>MDIParent2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OtherPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OtherPayment.Designer.cs">
+      <DependentUpon>OtherPayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OUTSTANDINGBAL2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="OUTSTANDINGBAL2.Designer.cs">
+      <DependentUpon>OUTSTANDINGBAL2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Payment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Payment.Designer.cs">
+      <DependentUpon>Payment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PaymentHist.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PaymentHist.Designer.cs">
+      <DependentUpon>PaymentHist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="paymenthistselectdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="paymenthistselectdate.Designer.cs">
+      <DependentUpon>paymenthistselectdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Payment_X.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Payment_X.Designer.cs">
+      <DependentUpon>Payment_X.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Payment_z.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Payment_z.Designer.cs">
+      <DependentUpon>Payment_z.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrintReciept.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintReciept.Designer.cs">
+      <DependentUpon>PrintReciept.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Receipt.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Receipt.Designer.cs">
+      <DependentUpon>Receipt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RePrintReciept.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="RePrintReciept.Designer.cs">
+      <DependentUpon>RePrintReciept.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rrRePrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rrRePrint.Designer.cs">
+      <DependentUpon>rrRePrint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SearchStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchStudent.Designer.cs">
+      <DependentUpon>SearchStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Settings.Designer.cs">
+      <DependentUpon>Settings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudentOutstandingBalance.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="StudentOutstandingBalance.Designer.cs">
+      <DependentUpon>StudentOutstandingBalance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="STUDENT_RECORD.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="STUDENT_RECORD.Designer.cs">
+      <DependentUpon>STUDENT_RECORD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="xFees.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="xFees.Designer.cs">
+      <DependentUpon>xFees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="xSetUpSchoolFees.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="xSetUpSchoolFees.Designer.cs">
+      <DependentUpon>xSetUpSchoolFees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="xSetUpSection.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="xSetUpSection.Designer.cs">
+      <DependentUpon>xSetUpSection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudentList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="StudentList.Designer.cs">
+      <DependentUpon>StudentList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Studentotherpayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Studentotherpayment.Designer.cs">
+      <DependentUpon>Studentotherpayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudentRecord.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="StudentRecord.Designer.cs">
+      <DependentUpon>StudentRecord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudentRegistration.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="StudentRegistration.Designer.cs">
+      <DependentUpon>StudentRegistration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateOldStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateOldStudent.Designer.cs">
+      <DependentUpon>UpdateOldStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserAccount.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserAccount.Designer.cs">
+      <DependentUpon>UserAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudentInformation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl1.Designer.cs">
+      <DependentUpon>StudentInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="xxAddSchoolFees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="xxAddSchoolFees.Designer.cs">
+      <DependentUpon>xxAddSchoolFees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="xxEditSchoolFees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="xxEditSchoolFees.Designer.cs">
+      <DependentUpon>xxEditSchoolFees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="xxSetUpSubFees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="xxSetUpSubFees.Designer.cs">
+      <DependentUpon>xxSetUpSubFees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="zzParticulars.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="zzParticulars.Designer.cs">
+      <DependentUpon>zzParticulars.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AAAA.resx">
+      <DependentUpon>AAAA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddNewStudent.resx">
+      <DependentUpon>AddNewStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Check.resx">
+      <DependentUpon>Check.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChooseSchoolYear.resx">
+      <DependentUpon>ChooseSchoolYear.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CopyFeesLoader.resx">
+      <DependentUpon>CopyFeesLoader.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditStudenInfo.resx">
+      <DependentUpon>EditStudenInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ForgotpassordCREATE.resx">
+      <DependentUpon>ForgotpassordCREATE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ForgotPassword.resx">
+      <DependentUpon>ForgotPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogIn.resx">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogInhistory.resx">
+      <DependentUpon>LogInhistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDIParent1.resx">
+      <DependentUpon>MDIParent1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDIParent2.resx">
+      <DependentUpon>MDIParent2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OtherPayment.resx">
+      <DependentUpon>OtherPayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OUTSTANDINGBAL2.resx">
+      <DependentUpon>OUTSTANDINGBAL2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Payment.resx">
+      <DependentUpon>Payment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PaymentHist.resx">
+      <DependentUpon>PaymentHist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="paymenthistselectdate.resx">
+      <DependentUpon>paymenthistselectdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Payment_X.resx">
+      <DependentUpon>Payment_X.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Payment_z.resx">
+      <DependentUpon>Payment_z.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintReciept.resx">
+      <DependentUpon>PrintReciept.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Receipt.resx">
+      <DependentUpon>Receipt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RePrintReciept.resx">
+      <DependentUpon>RePrintReciept.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rrRePrint.resx">
+      <DependentUpon>rrRePrint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchStudent.resx">
+      <DependentUpon>SearchStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings.resx">
+      <DependentUpon>Settings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentInformation.resx">
+      <DependentUpon>StudentInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentList.resx">
+      <DependentUpon>StudentList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Studentotherpayment.resx">
+      <DependentUpon>Studentotherpayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentOutstandingBalance.resx">
+      <DependentUpon>StudentOutstandingBalance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentRecord.resx">
+      <DependentUpon>StudentRecord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentRegistration.resx">
+      <DependentUpon>StudentRegistration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="STUDENT_RECORD.resx">
+      <DependentUpon>STUDENT_RECORD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateOldStudent.resx">
+      <DependentUpon>UpdateOldStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserAccount.resx">
+      <DependentUpon>UserAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="xFees.resx">
+      <DependentUpon>xFees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="xSetUpSchoolFees.resx">
+      <DependentUpon>xSetUpSchoolFees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="xSetUpSection.resx">
+      <DependentUpon>xSetUpSection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="xxAddSchoolFees.resx">
+      <DependentUpon>xxAddSchoolFees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="xxEditSchoolFees.resx">
+      <DependentUpon>xxEditSchoolFees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="xxSetUpSubFees.resx">
+      <DependentUpon>xxSetUpSubFees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="zzParticulars.resx">
+      <DependentUpon>zzParticulars.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\splcren.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOGIN3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logintext.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dollars_256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock-6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capturesasa.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capturejjj.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capture.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\forgotpassword.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CDDDD.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add-Male-User.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Login_Icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back-arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Edit-Male-User.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search-301.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\symbol-add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\studentinfo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\studentregistration- Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Useraccount.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StudentRegistrations.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\payment.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stureg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Payments.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sturegs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cashwithcoins.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Studentlist.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\studentlist %282%29.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
